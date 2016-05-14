@@ -3,6 +3,8 @@
 		 },
 	"instance" : {
 		"atKey:putObject:" : "ShoYoshida 12/30/2015 18:01",
+		"atPath:streamFileNamed:" : "PaulDeBruicker 5/14/2016 11:32",
+		"atPath:streamFileNamed:withRequestHeaders:" : "PaulDeBruicker 5/14/2016 23:08",
 		"bucketName" : "ShoYoshida 1/20/2015 00:27",
 		"bucketName:" : "ShoYoshida 1/20/2015 00:27",
 		"client" : "ShoYoshida 12/30/2015 17:33",
